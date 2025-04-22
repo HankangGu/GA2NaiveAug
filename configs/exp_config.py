@@ -4,8 +4,6 @@ from agentpool.GAABDQ import GAABDQ
 EXP_CONFIG = {
     "EPISODE": 2000,
 
-    "AGENT_TYPE": "QAGENT",  # "ABDQ",  # "RDRL",  # "DQN"# "BDQ" # "DDPG",
-    "COORDINATOR": "QMIX",
     "TRAINING_PARADIM": "DECENTRAL",  # DECENTRAL",#"CLDE",  # CLDE: centralised learning but decentralised execution
 
     "REGIONAL": True,

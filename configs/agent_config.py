@@ -26,7 +26,6 @@ GABDQ_AGENT_CONFIG = {
     "LEARNING_RATE": 0.0001,
     "TAU": 0.001,
     "HEAD_NUM":8
-
 }
 
 
